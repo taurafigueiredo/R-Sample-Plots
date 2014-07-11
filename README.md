@@ -1,3 +1,18 @@
+## How to run my scripts?
+
+* Clone this repo
+* Execute the .R scripts
+
+These scripts are made to do the following steps:
+
+* Download zipped file into a temp file
+* Unzip and read just the needed data (so you don't need to worry about RAM)
+* Plot the graph expected (ie. plot1.R result in plot1.png, plot2.R result in plot2.png, etc)
+* Delete temp file (so you don't need to worry about HD space)
+* Remove objects from memory
+
+If you have any doubts, my email is taurafigueiredo@gmail.com.
+
 ## Introduction
 
 This assignment uses data from
